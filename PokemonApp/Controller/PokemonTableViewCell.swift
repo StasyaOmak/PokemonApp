@@ -33,7 +33,7 @@ class PokemonTableViewCell: UITableViewCell {
     }
     func setupUI(withDataFrom: Card){
         
-        pokemonName.text = "Name: " + withDataFrom.name
+        pokemonName.text = withDataFrom.name
         pokemonRarity.text = "Rarity: " + (withDataFrom.rarity ?? "0")
         pokemonPoint.text = "HP: " + (withDataFrom.hp ?? "")
         pokemonImageView.sd_setImage(with: URL(string: withDataFrom.imageURL))

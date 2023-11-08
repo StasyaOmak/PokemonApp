@@ -16,20 +16,20 @@ class PokemonDetailViewController: UIViewController {
     
     @IBOutlet weak var pokemonsName: UILabel!
     
-    @IBOutlet weak var pokemonsID: UILabel!
+    @IBOutlet weak var pokemonsArtist: UILabel!
     
     @IBOutlet weak var pokemonsType: UILabel!
     
-    @IBOutlet weak var pokemonsHP: UILabel!
+    @IBOutlet weak var pokemonsText: UILabel!
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
         pokemonsImage.sd_setImage(with: URL(string: pokemon!.imageURL))
         pokemonsName.text = pokemon?.name
-        pokemonsID.text = pokemon?.id
+        pokemonsArtist.text = pokemon?.artist
         pokemonsType.text = pokemon?.supertype
-        pokemonsHP.text = pokemon?.hp
+        pokemonsText.text = pokemon?.text?.joined(separator: "\n")
         
     }
     
