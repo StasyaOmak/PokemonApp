@@ -176,14 +176,8 @@
                     </view>
                     <navigationItem key="navigationItem" id="1Vi-GU-cXv"/>
                     <connections>
-                        <outlet property="pokemonHP" destination="dfv-4u-QgN" id="Llj-GV-c1G"/>
-                        <outlet property="pokemonId" destination="SId-Me-eC4" id="d23-HD-7iQ"/>
-                        <outlet property="pokemonImage" destination="jYK-ku-bv7" id="cjv-dN-Rpz"/>
-                        <outlet property="pokemonName" destination="dcg-6V-Fko" id="pLL-vo-1Xi"/>
-                        <outlet property="pokemonType" destination="aSd-sZ-Msb" id="9ao-zr-mCk"/>
                         <outlet property="pokemonsHP" destination="dfv-4u-QgN" id="pVT-Br-eDx"/>
                         <outlet property="pokemonsID" destination="SId-Me-eC4" id="Zzi-oB-zkJ"/>
-                        <outlet property="pokemonsId" destination="SId-Me-eC4" id="Zn3-gz-Km3"/>
                         <outlet property="pokemonsImage" destination="jYK-ku-bv7" id="PxM-7c-fn9"/>
                         <outlet property="pokemonsName" destination="dcg-6V-Fko" id="MdY-ze-IUI"/>
                         <outlet property="pokemonsType" destination="aSd-sZ-Msb" id="JJ5-lT-yW4"/>
