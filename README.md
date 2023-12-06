@@ -17,4 +17,7 @@ PokemonApp is an iOS application that provides information about various Pokémo
 
 ## Screenshots
 
-![Simulator Screen Recording - iPhone SE (3rd generation) - 2023-11-08 at 13 42 47 (1)](https://github.com/StasyaOmak/Test_Code-Storybord/assets/127408467/a175ffb5-76c4-4146-afe6-e1547a50ec5a) ![Simulator Screenshot - iPhone SE (3rd generation) - 2023-11-08 at 13 41 44](https://github.com/StasyaOmak/Test_Code-Storybord/assets/127408467/b7c1c88d-b461-4df9-8116-89d7317cec2e) ![Simulator Screenshot - iPhone SE (3rd generation) - 2023-11-08 at 13 41 54](https://github.com/StasyaOmak/Test_Code-Storybord/assets/127408467/bf1093db-f6c4-4e69-bdbf-d9d5615d119f)
+![Simulator Screen Recording - iPhone SE (3rd generation) - 2023-11-08 at 13 42 47 (1)](https://github.com/StasyaOmak/PokemonApp/assets/127408467/20bc4875-8da5-4e93-94fd-1d33456a3015)  ![Simulator Screenshot - iPhone SE (3rd generation) - 2023-11-08 at 13 41 44](https://github.com/StasyaOmak/PokemonApp/assets/127408467/46890514-8c2f-4377-8e62-6e407a1290c8)
+
+![Simulator Screenshot - iPhone SE (3rd generation) - 2023-11-08 at 13 41 54](https://github.com/StasyaOmak/PokemonApp/assets/127408467/71435b3b-6059-46cb-8784-a47f0b520e67)
+
